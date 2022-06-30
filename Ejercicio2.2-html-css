@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+<div>
+ <table>
+  <tr>
+    <th>Título</th>
+    <th>Autor</th>
+    <th>Año de publicación</th>
+    <th>Enlace a Amanzon</th>
+  </tr>
+  <tr>
+    <td>Título 1</td>
+    <td>Autor 1</td>
+    <td>1990</td>
+    <td> <a href="https://www.laminasparaenmarcar.com">Láminas para enmarcar</a> </td>
+  </tr>
+  <tr>
+    <td>Título 2</td>
+    <td>Autor 2</td>
+    <td>1990</td>
+    <td><a href="https://www.laminasparaenmarcar.com">Láminas para enmarcar</a></td>
+  </tr>
+   <tr>
+    <td>Título 3</td>
+    <td>Autor 3</td>
+    <td>1990</td>
+    <td><a href="https://www.laminasparaenmarcar.com">Láminas para enmarcar</a></td>
+  </tr>
+</table> 
+</div>
+
+
+</form>
+
+</body>
+</html>
