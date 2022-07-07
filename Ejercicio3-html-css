@@ -1,0 +1,40 @@
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>HTML</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="estilo.css">
+  <style>
+
+elemento-1 {
+  color: red;
+
+}
+
+ul elemento-1 {
+  font-size: 2rem;
+}
+
+</style>
+</head>
+
+<body>
+ <h1 id="titulo">Lista de la compra</h1>
+ <ul>
+ <li id="elemento-1">Leche</li>
+ <li id="elemento-2">Cacao</li>
+ <li id="elemento-3">Avellana</li>
+ <li id="elemento-4">Azúcar</li>
+ </ul>
+ <ol>
+ <li id="elemento-1">Leche</li>
+ <li id="elemento-2">Cacao</li>
+ <li id="elemento-3">Avellana</li>
+ <li id="elemento-4">Azúcar</li>
+ </ol>
+ 
+</body>
+</html>
